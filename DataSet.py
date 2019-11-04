@@ -33,7 +33,7 @@ while True:
     df = pd.DataFrame(frame)
     df = np.transpose(df)
     df.to_csv("6_rawdata.csv", mode='a', index=False, header=False)
-
+#success222
 
 
 
